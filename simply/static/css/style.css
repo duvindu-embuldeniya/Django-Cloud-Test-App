@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(233, 204, 142);
+}
+
+.div1{
+    width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid gray;
+    border-radius: 20px;
+}
+
+.message-success{
+    background-color: rgb(200, 244, 135);
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+    margin: 0px auto;
+    border: 1px solid gray;
+    border-radius: 20px;
+}
+
+
+.message-error{
+    background-color: rgb(243, 150, 92);
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+    margin: 0px auto;
+    border: 1px solid gray;
+    border-radius: 20px;
+}
+
+
+.message-info{
+    background-color: rgb(111, 139, 239);
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+    margin: 0px auto;
+    border: 1px solid gray;
+    border-radius: 20px;
+}
